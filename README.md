@@ -1,4 +1,4 @@
-<h1 align= "left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Seja Bem Vindo! </h1>
+<h1 align= "left"> Olá , Seja Bem Vindo! </h1>
 
 Olá, Meu nome é **Hyan** e sou um **Desenvolvedor Back-end** em formação estudando na **Cubos Academy.**
 
